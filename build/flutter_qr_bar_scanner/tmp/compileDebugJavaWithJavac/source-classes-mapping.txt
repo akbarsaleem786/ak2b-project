@@ -1,0 +1,37 @@
+com/github/contactlutforrahman/flutter_qr_bar_scanner/QrCameraC2.java
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrCameraC2
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrCameraC2$1
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrCameraC2$2
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrCameraC2$3
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrCameraC2$4
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrCameraC2$Frame
+com/github/contactlutforrahman/flutter_qr_bar_scanner/BarcodeFormats.java
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.BarcodeFormats
+com/github/contactlutforrahman/flutter_qr_bar_scanner/QrReaderCallbacks.java
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrReaderCallbacks
+com/github/contactlutforrahman/flutter_qr_bar_scanner/QrCamera.java
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrCamera
+com/github/contactlutforrahman/flutter_qr_bar_scanner/QrDetector.java
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrDetector
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrDetector$Frame
+com/github/contactlutforrahman/flutter_qr_bar_scanner/BuildConfig.java
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.BuildConfig
+com/github/contactlutforrahman/flutter_qr_bar_scanner/NoPermissionException.java
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.NoPermissionException
+com/github/contactlutforrahman/flutter_qr_bar_scanner/FlutterQrBarScannerPlugin.java
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.FlutterQrBarScannerPlugin
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.FlutterQrBarScannerPlugin$1
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.FlutterQrBarScannerPlugin$ReadingInstance
+com/github/contactlutforrahman/flutter_qr_bar_scanner/QrReader.java
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrReader
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrReader$1
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrReader$Exception
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrReader$Exception$Reason
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrReader$QRReaderStartedCallback
+com/github/contactlutforrahman/flutter_qr_bar_scanner/QrCameraC1.java
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrCameraC1
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrCameraC1$1
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrCameraC1$2
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.QrCameraC1$Frame
+com/github/contactlutforrahman/flutter_qr_bar_scanner/Heartbeat.java
+ com.github.contactlutforrahman.flutter_qr_bar_scanner.Heartbeat
